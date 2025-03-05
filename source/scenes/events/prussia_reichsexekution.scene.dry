@@ -5,7 +5,6 @@ on-arrival: prussian_reichsexekution = 1; no_majority_reichsexekution = 1; strif
 new-page: true
 tags: event
 max-visits: 1
-face-image: img/Reichswehr.jpg
 
 = Prussian Government Dismissed
 

@@ -3,7 +3,6 @@ subtitle: The future of this new party will be decided here.
 view-if: lvp_trigger_time == time
 max-visits: 1
 tags: event
-face-image: img/weimar_coalition.jpg
 new-page: true
 
 = First <span style="color: #FFCC00;">**LVP**</span> Party Congress
@@ -17,7 +16,6 @@ The <span style="color: #FFCC00;">**LVP**</span>'s inaugural congress will play 
 @luther
 call: lvp_formed
 on-arrival: lvp_relation += 5; lvp_left += 3; new_middle_dnvp += 2; old_middle_dnvp += 2
-face-image: img/portraits/luther.jpg
 
 Hans Luther is once again chosen to lead the <span style="color: #FFCC00;">**LVP**</span>, a long-time advocate for liberal and bourgeois unity, and a figure acceptable to both wings of the newly unified party. 
 

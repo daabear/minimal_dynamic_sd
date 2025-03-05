@@ -13,7 +13,6 @@ if (Q.in_weimar_coalition_prussia == 1 || Q.in_grand_coalition_prussia == 1 || Q
 new-page: true
 tags: event
 priority: 1
-face-image: img/prussia_flag_old.png
 go-to: coalition_menu
 
 = Coalition Formation

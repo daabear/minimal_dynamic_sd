@@ -12,7 +12,6 @@ Q.hindenburg_angry_bruning += 10;
 Q.new_middle_dvp -= 1;
 !}
 tags: event
-face-image: img/bruningetcurtius.jpg
 max-visits: 1
 
 = The Second Brüning cabinet

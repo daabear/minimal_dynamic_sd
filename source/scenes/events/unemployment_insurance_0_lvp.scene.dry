@@ -6,7 +6,6 @@ on-arrival: budget -= 1 if budget >= 1; lvp_relation -= 3; ui1_seen = 1
 tags: event
 priority: 2
 max-visits: 1
-face-image: img/Kollwitz_Arbeitslosigkeit.jpg
 
 = Unemployment Insurance Crisis
 

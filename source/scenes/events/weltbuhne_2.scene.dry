@@ -4,7 +4,6 @@ new-page: true
 view-if: year = 1931 and month >= 11 and weltbuhne_seen = 1 and not weltbuhne_dropped
 max-visits: 1
 on-arrival: weltbuhne_conclusion = 1
-face-image: img/weltbune.jpg
 tags: event
 go-to: weltbuhne_dropped if judicial_reform >= 3; weltbuhne_convicted if judicial_reform < 3
 

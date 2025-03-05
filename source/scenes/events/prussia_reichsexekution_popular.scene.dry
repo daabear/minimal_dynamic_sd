@@ -5,7 +5,6 @@ on-arrival: prussian_reichsexekution = 1; strife += 2; hindenburg_angry += 15
 new-page: true
 tags: event
 max-visits: 1
-face-image: img/Reichswehr.jpg
 
 = Coup in Prussia
 

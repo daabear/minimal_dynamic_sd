@@ -21,7 +21,6 @@ if (Q.in_weimar_coalition_prussia == 1 || Q.in_grand_coalition_prussia == 1 || Q
 }
 !}
 set-jump: new_elections
-face-image: img/prussia.png
 
 = Elections, [+ month : month +] [+ year +]
 

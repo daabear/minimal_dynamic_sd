@@ -3,7 +3,6 @@ subtitle: Owing to its militarization, the <span style="color: #000000;">Center 
 view-if: rb_militancy >= 0.2 and not rb_exit and not rb_stay
 new-page: true
 tags: event
-face-image: img/reichsbanner_flag.jpg
 
 = Exodus from the Reichsbanner
 

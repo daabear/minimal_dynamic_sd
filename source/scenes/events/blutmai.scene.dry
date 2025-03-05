@@ -4,7 +4,6 @@ subtitle: A <span style="color: #700000;">Communist</span> demonstration
 tags: event
 view-if: year = 1929 and month = 5
 max-visits: 1
-face-image: img/redfront.jpg
 
 = May Day, 1929
 
@@ -19,7 +18,6 @@ Many <span style="color: #000000;">non</span>-<span style="color: #700000;">comm
 
 @ban
 on-arrival: blutmai = 1; kpd_relation -= 25; z_relation += 5; dvp_relation += 5; ddp_relation += 3; lvp_relation += 4; workers_spd -= 3; unemployed_spd -= 3; workers_kpd += 2; unemployed_kpd += 3; communist_coalition -= 3; strife += 1; dvp_left += 1; ddp_left += 0.5; lvp_left += 1; hindenburg_angry -= 8
-face-image: img/blutmai.jpg
 
 We issued the order to ban the demonstrations, and sent police to enforce the ban. There was a confrontation between the police and <span style="color: #700000;">**Communists**</span>, and violence erupted. Reports say that the Berlin police killed dozens of demonstrators and innocent bystanders. The <span style="color: #700000;">**Communists**</span> are already calling this incident *Blutmai*, "Bloody May".
 

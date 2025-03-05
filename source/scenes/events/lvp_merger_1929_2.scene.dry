@@ -22,7 +22,6 @@ if ((100 - Q.pro_republic) + Q.nationalism >= 100) {
 }
 !}
 max-visits: 1
-face-image: img/ddp.jpg
 new-page: true
 
 =  <span style="color: #D3C24D;">**[+ ddp_name +]**</span> Congress
@@ -37,7 +36,6 @@ On the other hand, leftists within the <span style="color: #D3C24D;">**[+ ddp_na
 @ddp_success
 view-if: lvp_formation_points >= 3
 on-arrival: ddp_relation -= 3; ddp_right += 1.5; lvp_trigger_1_time = time + 1
-face-image: img/weimar_coalition_3.jpg
 
 As expected, the <span style="color: #D3C24D;">**[+ ddp_name +]**</span> has followed the <span style="color: #C0A054;">**DVP**</span>'s decision and affirmed their support for a united <span style="color: #FFCC00;">Liberal People's Party</span>. 
 
@@ -46,6 +44,5 @@ However, the leftists within the <span style="color: #D3C24D;">**[+ ddp_name +]*
 @ddp_fail
 view-if: lvp_formation_points < 3
 on-arrival: dvp_right += 5; new_middle_ddp -= 4; old_middle_ddp -= 4; pro_republic -= 5; liberal_cooperation -= 10
-face-image: img/dstp.jpg
 
 Surprisingly, the <span style="color: #D3C24D;">**[+ ddp_name +]**</span> have rejected the plans to create a united <span style="color: #FFCC00;">Liberal People's Party</span>. It seems that the infighting that plagues the <span style="color: #D3C24D;">**[+ ddp_name +]**</span> remains alive and well. This outcome has greatly demoralized the German middle and has forced the disbandment of the Liberal Association. 
