@@ -4,7 +4,6 @@ subtitle: A set of documents detailing a violent seizure of power by the <span s
 view-if: year = 1931 and month == 11 and nsdap_votes >= 26 and investigate_far_right < 3
 on-arrival: boxheim_seen = 1; nazi_urgency += 1; investigate_far_right = 4
 max-visits: 1
-face-image: img/boxheim.jpg
 tags: event
 
 = The Boxheim Documents
